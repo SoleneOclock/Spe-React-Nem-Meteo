@@ -1,0 +1,7 @@
+@use '../../styles/variables' as v;
+
+.app {
+  background: linear-gradient(#2ba2f8, #cfdcfb);
+  text-align: center;
+  min-height: 100vh;
+}
